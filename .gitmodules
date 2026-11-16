@@ -1,0 +1,3 @@
+[submodule "haki-ai"]
+	path = haki-ai
+	url = https://github.com/Mknexus47/HAKI-AI.git
